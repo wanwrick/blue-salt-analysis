@@ -8,7 +8,7 @@ Convert to .ipynb format or copy cells into Jupyter.
 # %% [markdown]
 # # Blue Salt Customer Analysis - Exploratory Data Analysis
 # 
-# **Author**: [Your Name]  
+# **Author**: Paroz Mehta  
 # **Date**: January 2025  
 # **Course**: Cornell Executive MBA - Marketing Strategy
 # 
