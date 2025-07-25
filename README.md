@@ -80,10 +80,10 @@ blue-salt-analysis/
 ## 📈 Key Visualizations
 
 ### Jobs to be Done Distribution
-![JTBD Distribution](outputs/visualizations/jtbd_distribution_sample.png)
+
 
 ### Customer Journey Satisfaction
-![Journey Satisfaction](outputs/visualizations/journey_satisfaction_sample.png)
+
 
 ## 💡 Strategic Recommendations
 
@@ -110,7 +110,7 @@ Based on the analysis, we recommend:
 ## 👥 Team
 
 **Team 1 - Cornell Executive MBA 2026**
-- Data Analysis Lead: [Your Name]
+- Data Analysis Lead: Paroz Mehta
 - Project Contributors: Jade Leone, Mark Lee, Paul Skerry, Paroz Mehta, Leilani Rebolledo, Stone Wu, Matthew Street
 
 ## 📝 License
